@@ -1,0 +1,37 @@
+body {
+  margin: 40px auto;
+  max-width: 860px;
+  padding: 0 16px;
+  font-family: sans-serif;
+  line-height: 1.7;
+  color: #111;
+  background: #fff;
+}
+
+h1, h2 {
+  line-height: 1.3;
+}
+
+a {
+  color: #0645ad;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.notice {
+  border: 1px solid #ccc;
+  padding: 12px;
+  background: #f8f8f8;
+}
+
+.meta {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.page-list li {
+  margin: 8px 0;
+}
