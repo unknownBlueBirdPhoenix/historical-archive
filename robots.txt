@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://unknownbluebirdphoenix.github.io/historical-archive/sitemap.xml
